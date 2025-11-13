@@ -1,0 +1,5 @@
+# LLeX.Ai Frontend prerequisites
+node>=18.18.0
+npm>=9.0.0
+# 프로젝트 의존성은 package.json / package-lock.json을 통해 설치하세요:
+#   npm install
