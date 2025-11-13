@@ -9,8 +9,9 @@
 > **산업안전보건 관련 9개 법령 (2,312개 조문)을 검색하고 해석하는 AI 기반 법률 챗봇**
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400/1a1a2e/eee?text=LLeX.Ai+Demo+Screenshot" alt="LLeX.Ai Demo" />
+  <img src="assets/llex_demo.gif" alt="LLeX.Ai Demo" width="800">
 </div>
+
 
 ---
 
